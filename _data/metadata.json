@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Katie Santo",
+  "url": "https://heyjustkatie.com",
+  "description": "Katie Santo is an experienced training facilitator, learning experience designer, and communication strategist based in New York. She has over a decade of experience in training facilitation, professional development, instructional design, digital accessibility, user experience, and public speaking.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "communication ✧ experience design ✧ strategy",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://heyjustkatie.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://heyjustkatie.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Katie Santo",
+    "email": "hello@heyjustkatie.com",
+    "url": "https://heyjustkatie.com/"
   }
 }
