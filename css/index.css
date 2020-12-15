@@ -185,7 +185,7 @@ pre {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0;
-  font-size: 2rem;
+  font-size: 2.25rem;
   text-transform: lowercase;
 }
 .home :link:not(:hover) {
