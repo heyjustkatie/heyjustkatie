@@ -72,7 +72,11 @@ Campaign emails were mobile responsive and reflected graphical elements from the
 
 Following the launch of the refreshed NYU website, we also shared a celebratory video on social media. This was created using design material used throughout the campaign in addition to live recordings taken during the actual launch.
 
-[![Video: Launching the Refreshed NYU.edu](http://img.youtube.com/vi/Alc7AhymB9o/0.jpg)](http://www.youtube.com/watch?v=Alc7AhymB9o "Launching the Refreshed NYU.edu")
+<!-- blank line -->
+<figure class="video">
+  <iframe src="(http://www.youtube.com/watch?v=Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Sharing our process
 
