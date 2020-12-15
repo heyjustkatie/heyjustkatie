@@ -1,9 +1,13 @@
 /* IMPORT FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Shadows+Into+Light+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
 
 /* font-family: 'Roboto', sans-serif; */
 /* font-family: 'Roboto Condensed', sans-serif; */
+/* font-family: 'Roboto Slab', serif */
 /* font-family: 'Shadows Into Light Two', cursive; */
 
 
@@ -12,6 +16,9 @@
 :root {
   --hotpink: #FF0066;
   --darkpink: #660029;
+  --teal: #317B87;
+  --purple: #7A6F9B;
+  --lavender: #D4CDF4;
   --red: #C5004A;
   --darkred: #7F0036;
   --lightgray: #e0e0e0;
@@ -91,7 +98,7 @@ header {
   clear: both;
 } */
 h1 {
-  font-family: 'Shadows Into Light Two', cursive;
+  font-family: 'Shadows Into Light Two', 'Roboto Slab', serif;
 }
 table {
   margin: 1em 0;
@@ -204,7 +211,7 @@ pre {
   float: left;
   margin-left: 1em;
   font-size: 1.125rem;
-  font-family: 'Shadows Into Light Two', cursive;
+  font-family: 'Shadows Into Light Two', 'Roboto Slab', serif;
   text-transform: lowercase;
 }
 .nav-item {
@@ -264,7 +271,7 @@ pre {
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--darkpink);
+  background-color: var(--teal);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
@@ -299,4 +306,163 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+/* Other style elements */
+
+.caption {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1rem;
+  font-weight: 100;
+  color: #666;
+}
+
+blockquote {
+  font-family: "Shadows Into Light Two", 'Roboto Slab', serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  vertical-align: middle;
+  padding: 0 0 0 0.75rem;
+  border-left: 0.5rem solid var(--hotpink);
+  color: var(--black);
+}
+
+/* LITERALLY ALL OF THE BUTTONS */
+
+.btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  vertical-align: middle;
+  color: #fff;
+  background: #333;
+  border: none;
+  height: 2.75rem;
+  padding: 0.5rem 1.25rem;
+  margin: 0.5rem 1rem 0.5rem 0;
+}
+
+.btn:hover {
+  color: #000;
+  background: #ff0066;
+}
+
+.btn:active {
+  color: #fff;
+  background: #660029;
+}
+
+.btn:disabled {
+  color: #666;
+  background: #e5e5e5;
+}
+
+.btn.secondary {
+  color: #000;
+  background: transparent;
+  outline: 2px solid #ff0066;
+  outline-offset: -2px;
+}
+
+.btn.secondary:hover {
+  background: #ff0066;
+  outline: none;
+}
+
+.btn.secondary:active {
+  color: #fff;
+  background: #660029;
+  outline: none;
+}
+
+.btn.secondary:disabled {
+  color: #666;
+  background: #e5e5e5;
+  outline: none;
+}
+
+.btn.success {
+  color: #000;
+  background: #b9ffb7;
+  outline: 2px solid #fff;
+  outline-offset: -4px;
+}
+
+.btn.success::before {
+  content: "\2713";
+  margin-right: 0.25rem;
+}
+
+.btn.success:hover {
+  color: #fff;
+  background: #049c00;
+}
+
+.btn.success:active {
+  color: #049c00;
+  background: #fff;
+  outline: 2px solid #049c00;
+  outline-offset: -4px;
+}
+
+.btn.success:disabled {
+  color: #666;
+  background: #e5e5e5;
+  outline: none;
+}
+
+.btn.warning {
+  color: #000;
+  background: #f19a3e;
+  outline: 2px solid #fff;
+  outline-offset: -4px;
+}
+
+.btn.warning::before {
+  content: "\26A0";
+  margin-right: 0.25rem;
+}
+
+.btn.warning:hover {
+  color: #fff;
+  background: #9b3c00;
+}
+
+.btn.warning:active {
+  color: #9b3c00;
+  background: #fff;
+  outline: 2px solid #9b3c00;
+  outline-offset: -4px;
+}
+
+.btn.cta {
+  color: #fff;
+  background: #ff0066;
+  outline: 2px solid #fff;
+  outline-offset: -4px;
+}
+
+.btn.cta::after {
+  content: "\203A";
+  margin-left: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.btn.cta:hover {
+  color: #000;
+  background: #ff0066;
+  outline: none;
+}
+
+.btn.cta:active {
+  color: #fff;
+  background: #660029;
+  outline: none;
+}
+
+.btn.cta:disabled {
+  color: #666;
+  background: #e5e5e5;
+  outline: none;
 }
