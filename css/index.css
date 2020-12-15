@@ -28,15 +28,19 @@
 html,
 body {
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  /* max-width: 940px; */
-  margin: auto;
+  margin: 0;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1.125rem;
   color: var(--darkgray);
   background-color: var(--white);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  max-width: 940px;
+  margin: auto !important;
 }
 
 p:last-child {
