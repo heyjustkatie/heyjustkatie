@@ -178,6 +178,7 @@ pre {
 
 .siteTitle {
   padding-left: .5rem;
+  display: inline-block;
 }
 
 /* Header */
@@ -195,7 +196,6 @@ pre {
 .homeSubtitle {
   font-size: .75rem;
   padding: 0 1rem;
-  float: left;
 }
 
 /* Nav */
