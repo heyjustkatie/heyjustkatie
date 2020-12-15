@@ -1,5 +1,5 @@
 ---
-title: NYU.&nbsp;edu Website Redesign
+title: NYU Website Redesign
 description: Interactive leadership development experience for NYU's Administrative Management Council
 layout: layouts/post.njk
 tags:
@@ -20,7 +20,7 @@ As the Web Training & Content Support Specialist I regularly interact with the w
 
 ## Developing a communication strategy
 
-The primary goal when developing our strategy was to effectively communicate so that all audiences felt aware and prepared to navigate the updated NYU.&nbsp;edu. There were two defined audience segments, each with specific goals:
+The primary goal when developing our strategy was to effectively communicate so that all audiences felt aware and prepared to navigate the updated NYU.edu. There were two defined audience segments, each with specific goals:
 
 ### Site viewer goals
 
@@ -45,7 +45,7 @@ Inspired by our summer launch date, we developed a campaign theme around the "re
 mobile-friendly | new look | improved user experience
 </blockquote>
 
-![Draft digital screen ad](/posts/nyu-website-redesign/img/refresh-digital-screen.png)
+![Draft digital screen ad](posts/nyu-website-redesign/img/refresh-digital-screen.png)
 A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
 
 The overall voice and tone for redesign communications could be best described as:
@@ -65,7 +65,7 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](/posts/nyu-website-redesign//img/nyu-refresh.jpg)
+![Campaign email mockups](posts/nyu-website-redesign//img/nyu-refresh.jpg)
 Campaign emails were mobile responsive and reflected graphical elements from the new design.
 
 ## Launch announcement video
@@ -73,7 +73,7 @@ Campaign emails were mobile responsive and reflected graphical elements from the
 Following the launch of the refreshed NYU website, we also shared a celebratory video on social media. This was created using design material used throughout the campaign in addition to live recordings taken during the actual launch.
 
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video">
   <iframe src="https://www.youtube.com/embed/Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
@@ -82,7 +82,7 @@ Following the launch of the refreshed NYU website, we also shared a celebratory 
 
 In July 2018, I represented NYU at the eduWeb Digital Summit in San Diego along with our Digital Communications Specialist, where we discussed the planning process behind our communication strategy for the redesign of the NYU website. We also provided participants with a communication planning guide that they can use and adapt to support their own communication efforts.
 
-<button class="btn" href="https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR">view presentation (pdf)</button>
+<button class="btn"><a href="https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR"view presentation (pdf)</a></button>
 
 ## Learning design for CMS users
 
@@ -98,7 +98,7 @@ Online tutorials:
 All users were invited to attend information sessions where our Digital Communications Specialist and I provided background on the redesign project in addition to previewing the new site. This session was recorded for those users unable to attend in person due to scheduling or location conflicts.
 
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video">
   <iframe src="https://www.youtube.com/embed/elSDkSizItc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
@@ -108,7 +108,7 @@ All users were invited to attend information sessions where our Digital Communic
 The refreshed NYU website design introduced CMS users to an entirely new kind of page template. Previously users built new pages based on a grid layout system, but in the new design they have to adapt to templates based on percentages. This video was created to show CMS users how their content reflowed across various screen breakpoints in an easy to follow format.
 
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video">
   <iframe src="https://www.youtube.com/embed/2wfCdF_lg2o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->

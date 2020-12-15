@@ -330,6 +330,14 @@ blockquote {
   color: var(--black);
 }
 
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 0;
+  height: 0;
+  margin-bottom: 15px;
+}
+
 /* LITERALLY ALL OF THE BUTTONS */
 
 .btn {
