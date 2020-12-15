@@ -45,7 +45,7 @@ Inspired by our summer launch date, we developed a campaign theme around the "re
 mobile-friendly | new look | improved user experience
 </blockquote>
 
-![Draft digital screen ad](/nyu-website-redesign/img/refresh-digital-screen.png)
+![Draft digital screen ad](posts/nyu-website-redesign/img/refresh-digital-screen.png)
 A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
 
 The overall voice and tone for redesign communications could be best described as:
@@ -65,18 +65,14 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](/posts/nyu-website-redesign//img/nyu-refresh.jpg)
+![Campaign email mockups](posts/nyu-website-redesign/img/nyu-refresh.jpg)
 Campaign emails were mobile responsive and reflected graphical elements from the new design.
 
 ## Launch announcement video
 
 Following the launch of the refreshed NYU website, we also shared a celebratory video on social media. This was created using design material used throughout the campaign in addition to live recordings taken during the actual launch.
 
-<!-- blank line -->
-<figure class="video">
-  <iframe src="https://www.youtube.com/embed/Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+[![Video: Launching the Refreshed NYU.edu](http://img.youtube.com/vi/Alc7AhymB9o/0.jpg)](http://www.youtube.com/watch?v=Alc7AhymB9o "Launching the Refreshed NYU.edu")
 
 ## Sharing our process
 
