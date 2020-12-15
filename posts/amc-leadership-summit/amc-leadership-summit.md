@@ -1,10 +1,10 @@
 ---
-layout: layouts/post.njk
 title: AMC Leadership Summit
-templateClass: tmpl-post
-eleventyNavigation:
-  key: Portfolio
-  order: 3
+description: Interactive leadership development experience for NYU's Administrative Management Council
+layout: layouts/post.njk
+tags:
+  - learning design
+  - training facilitation
 ---
 
 learning design | training facilitation | project management | communication strategy
@@ -13,7 +13,7 @@ learning design | training facilitation | project management | communication str
 
 The AMC Leadership Summit is an annual half-day interactive learning experience for the executive committee of NYU’s [Administrative Management Council](http://nyu.edu/amc) (AMC). This is the first time the AMC has spearheaded and invested in the professional development of its own officers and members in leadership positions. The first summit was held on July 31, 2020 and included four skill-based sessions attended by over 30 AMC leaders. It also featured subject matter experts and members of NYU leadership, including: Stephanie Allen, Assistant Vice President for Talent, Learning, and Organizational Development; Sabrina Ellis, Vice President for University Human Resources; Monroe France, Associate Vice President for Global Engagement and Inclusive Leadership; and Karen Nercessian, Associate Vice Provost for Strategy and Chief of Staff to the Provost.
 
-**Timeline: May - July 2020**
+**Timeline:** May - July 2020
 
 **Project members:**
 
