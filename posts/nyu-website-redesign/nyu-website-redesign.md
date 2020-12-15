@@ -74,7 +74,7 @@ Following the launch of the refreshed NYU website, we also shared a celebratory 
 
 <!-- blank line -->
 <figure class="video">
-  <iframe src="(http://www.youtube.com/watch?v=Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="(https://www.youtube.com/embed/watch?v=Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
@@ -82,7 +82,7 @@ Following the launch of the refreshed NYU website, we also shared a celebratory 
 
 In July 2018, I represented NYU at the eduWeb Digital Summit in San Diego along with our Digital Communications Specialist, where we discussed the planning process behind our communication strategy for the redesign of the NYU website. We also provided participants with a communication planning guide that they can use and adapt to support their own communication efforts.
 
-<button class="btn"><a href="{{ 'https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR' | url }}">view presentation (pdf)</a></button>
+<button class="btn" href="{{ 'https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR' | url }}">view presentation (pdf)</button>
 
 ## Learning design for CMS users
 
