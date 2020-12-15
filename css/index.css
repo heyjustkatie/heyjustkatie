@@ -179,6 +179,7 @@ pre {
   margin: 1rem 0;
   font-size: 1.5rem;
   text-transform: lowercase;
+  color: var(--black) !important;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -191,10 +192,12 @@ pre {
   float: left;
   margin-left: 1em;
   font-size: .75rem;
+  color: var(--black) !important;
 }
 .nav-item {
   display: inline-block;
   margin-right: 1em;
+  color: var(--black) !important;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
