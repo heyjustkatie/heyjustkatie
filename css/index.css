@@ -198,11 +198,11 @@ pre {
   list-style: none;
   float: left;
   margin-left: 1em;
-  font-size: .75rem;
+  font-size: 1rem;
 }
 .nav-item {
   display: inline-block;
-  margin-right: 1em;
+  margin-right: 1rem;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
