@@ -39,8 +39,15 @@ p:last-child {
 }
 p,
 .tmpl-post li,
-img {
+/* img {
   max-width: 37.5em; /* 600px /16 */
+} */
+/* from lazyimages plugin */
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 p,
 .tmpl-post li {
@@ -130,6 +137,30 @@ pre {
 }
 .highlight-line-remove {
   background-color: #902f2f;
+}
+
+/* Header Flexboxen */
+
+.siteHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.siteInfo {
+  display: flex;
+  align-items: center;
+  flex: none;
+}
+
+.siteLogo {
+
+}
+
+.siteTitle {
+  padding-left: 1.5rem;
 }
 
 /* Header */
