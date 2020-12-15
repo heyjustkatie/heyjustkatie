@@ -184,7 +184,7 @@ pre {
 .home {
   padding: 0 1rem;
   float: left;
-  margin: 1rem 0;
+  margin: 1rem 0 .5rem 0;
   font-size: 2.25rem;
   text-transform: lowercase;
 }
@@ -194,6 +194,8 @@ pre {
 
 .homeSubtitle {
   font-size: .75rem;
+  padding: 0 1rem;
+  float: left;
 }
 
 /* Nav */
@@ -202,7 +204,7 @@ pre {
   list-style: none;
   float: left;
   margin-left: 1em;
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-family: 'Shadows Into Light Two', cursive;
   text-transform: lowercase;
 }
