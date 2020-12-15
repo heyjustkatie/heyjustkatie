@@ -30,7 +30,7 @@ body {
   padding: 0;
   display: flex;
   flex-direction: column;
-  max-width: 940px;
+  /* max-width: 940px; */
   margin: auto;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
