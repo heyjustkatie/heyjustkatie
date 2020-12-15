@@ -185,7 +185,7 @@ pre {
 
 .siteTitle {
   padding-left: .5rem;
-  display: flex;
+  /* display: flex; */
   flex: column nowrap;
 }
 
