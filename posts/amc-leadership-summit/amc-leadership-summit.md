@@ -7,8 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-# AMC Leadership Summit
-
 learning design | training facilitation | project management | communication strategy
 
 ## About this project
