@@ -85,11 +85,11 @@ main :first-child {
 header {
   border-bottom: 1px dashed var(--lightgray);
 }
-header:after {
+/* header:after {
   content: "";
   display: table;
   clear: both;
-}
+} */
 h1 {
   font-family: 'Shadows Into Light Two', cursive;
 }
@@ -177,7 +177,7 @@ pre {
 }
 
 .siteTitle {
-  padding-left: 1.5rem;
+  padding-left: .5rem;
 }
 
 /* Header */
@@ -185,7 +185,7 @@ pre {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-transform: lowercase;
 }
 .home :link:not(:hover) {
