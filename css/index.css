@@ -184,7 +184,7 @@ pre {
 }
 
 .siteTitle {
-  padding-left: .5rem;
+  padding-left: 1rem;
   /* display: flex; */
   flex: column nowrap;
 }
@@ -204,6 +204,7 @@ pre {
 .homeSubtitle {
   font-size: .75rem;
   padding: 0;
+  margin: 0;
 }
 
 /* Nav */
