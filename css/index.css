@@ -192,6 +192,10 @@ pre {
   text-decoration: none;
 }
 
+.homeSubtitle {
+  font-size: .75rem;
+}
+
 /* Nav */
 .nav {
   padding: 0;
@@ -199,6 +203,8 @@ pre {
   float: left;
   margin-left: 1em;
   font-size: 1rem;
+  font-family: 'Shadows Into Light Two', cursive;
+  text-transform: lowercase;
 }
 .nav-item {
   display: inline-block;
