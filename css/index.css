@@ -185,6 +185,8 @@ pre {
 
 .siteTitle {
   padding-left: .5rem;
+  display: flex;
+  flex: column nowrap;
 }
 
 /* Header */
