@@ -40,12 +40,10 @@ The primary goal when developing our strategy was to effectively communicate so 
 
 Inspired by our summer launch date, we developed a campaign theme around the "refreshment" of the website.
 
-<blockquote>
-<strong>NYU.edu Refresh</strong><br/>
-mobile-friendly | new look | improved user experience
-</blockquote>
+> **NYU.edu Refresh**
+> mobile-friendly | new look | improved user experience
 
-![Draft digital screen ad](posts/nyu-website-redesign/img/refresh-digital-screen.png)
+![Draft digital screen ad](/img/refresh-digital-screen.png)
 A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
 
 The overall voice and tone for redesign communications could be best described as:
