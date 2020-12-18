@@ -211,17 +211,27 @@ pre {
 /* Nav */
 .nav {
   padding: 0;
-  list-style: none !important;
+  list-style: none;
   float: left;
   margin-left: 1em;
   font-size: 1.125rem;
   font-family: 'Shadows Into Light Two', 'Roboto Slab', serif;
   text-transform: lowercase;
 }
+
+.nav li::before {
+  content: "";
+}
+
 .nav-item {
   display: inline-block;
   margin-right: 1rem;
 }
+
+.nav-item li::before {
+  content: "";
+}
+
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
   color: var(--black);
@@ -233,9 +243,14 @@ pre {
 
 /* Posts list */
 .postlist {
-  list-style: none !important;
+  list-style: none;
   padding: 0;
 }
+
+.postlist li::before {
+  content: "";
+}
+
 .postlist-item {
   counter-increment: start-from -1;
 }
@@ -246,6 +261,7 @@ pre {
   line-height: 100%;
   text-align: right;
 }
+
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
@@ -339,9 +355,6 @@ blockquote {
 }
 
 ul {
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 300;
   list-style: none;
   padding-left: 2rem;
 }
@@ -356,9 +369,6 @@ ul li::before {
 }
 
 ol {
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 300;
   padding-left: 2rem;
 }
 
