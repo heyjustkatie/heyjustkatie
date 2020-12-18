@@ -247,10 +247,6 @@ pre {
   padding: 0;
 }
 
-.postlist li::before {
-  content: "";
-}
-
 .postlist-item {
   counter-increment: start-from -1;
 }
