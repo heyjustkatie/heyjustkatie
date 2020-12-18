@@ -17,3 +17,5 @@ My talks and workshops focus on training and development, technical learning, ac
 - [Train the Trainer: From Novice to Grandmaster](https://www.slideshare.net/heyjustkatie/train-the-trainer-from-novice-to-grandmaster) — August 2017, eduWeb Digital Summit (3 hour workshop)
 - [Train the Trainer: Tips for Enhancing Employee Learning](https://www.slideshare.net/heyjustkatie/train-the-trainer-tips-for-enhancing-employee-learning-presented-at-highedweb-2016) — October 2016, HighEdWeb Annual Conference
 - [Unforgettable: Transforming Commencement into an Interactive Experience](https://www.slideshare.net/heyjustkatie/unforgettable-transforming-commencement-into-an-interactive-experience-poster-session-presentation-at-highedweb-2016) — October 2016, HighEdWeb Annual Conference
+
+![eduWeb 2018 session promo](/img/eduweb2018-promo.png)
