@@ -38,7 +38,7 @@ body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -194,11 +194,12 @@ pre {
   padding: 0;
   /* float: left; */
   margin: 0;
-  font-size: 2.25rem;
+  font-size: 2.375rem;
   text-transform: lowercase;
 }
 .home :link:not(:hover) {
   text-decoration: none;
+  color: var(--black);
 }
 
 .homeSubtitle {
@@ -223,6 +224,7 @@ pre {
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
+  color: var(--black);
 }
 .nav-item-active {
   font-weight: 700;
@@ -321,8 +323,8 @@ a[href].direct-link:focus:visited,
 }
 
 blockquote {
-  font-family: "Shadows Into Light Two", 'Roboto Slab', serif;
-  font-size: 1.25rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1rem;
   font-weight: 400;
   vertical-align: middle;
   padding: 0 0 0 0.75rem;
