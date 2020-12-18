@@ -211,7 +211,7 @@ pre {
 /* Nav */
 .nav {
   padding: 0;
-  list-style: none;
+  list-style: none !important;
   float: left;
   margin-left: 1em;
   font-size: 1.125rem;
@@ -233,7 +233,7 @@ pre {
 
 /* Posts list */
 .postlist {
-  list-style: none;
+  list-style: none !important;
   padding: 0;
 }
 .postlist-item {
