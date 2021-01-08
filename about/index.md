@@ -16,3 +16,5 @@ My portfolio includes examples of digital communication campaigns, digital acces
 In my spare time I enjoy nerding out over entirely too many fandoms, mastering the dangerous hobby of reading while walking, and contriving insane movie plotlines with friends that will most likely never see the light of day.
 
 This portfolio, much like me, is very much a work in progress—enjoy!
+
+![diamond rose](/img/rose-logo-pink.png)
