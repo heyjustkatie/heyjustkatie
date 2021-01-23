@@ -1,10 +1,10 @@
 ---
-title: Speaking
-description: Talks, workshops, and other speaking engagements
 layout: layouts/post.njk
-tags:
-  - training-facilitation
-  - communication-strategy
+title: Speaking
+templateClass: tmpl-post
+eleventyNavigation:
+  key: Speaking
+  order: 3
 ---
 
 My talks and workshops focus on training and development, technical learning, accessibility best practices, content strategy, and communication strategy. In addition to delivering technical training on a variety of topics as part of the Digital Communications Group, I've also shared my insights at professional conferences and special events held at NYU.
@@ -18,4 +18,4 @@ My talks and workshops focus on training and development, technical learning, ac
 - [Train the Trainer: Tips for Enhancing Employee Learning](https://www.slideshare.net/heyjustkatie/train-the-trainer-tips-for-enhancing-employee-learning-presented-at-highedweb-2016) — October 2016, HighEdWeb Annual Conference
 - [Unforgettable: Transforming Commencement into an Interactive Experience](https://www.slideshare.net/heyjustkatie/unforgettable-transforming-commencement-into-an-interactive-experience-poster-session-presentation-at-highedweb-2016) — October 2016, HighEdWeb Annual Conference
 
-![eduWeb 2018 session promo](img/eduweb2018-promo.png)
+![eduWeb 2018 session promo](/eduweb2018-promo.png)
