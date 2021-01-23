@@ -4,11 +4,15 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<h1>Hello there!</h1>
+<p>Hi there, I’m Katie! I design and facilitate engaging learning experiences and communication strategies within corporate, nonprofit, and higher education communities.</p>
+<p>As a lifelong learner myself, I’m fascinated by how people learn and what motivates them to do so. I’m also very passionate about employee advocacy, development. and onboarding.</p>
+<p>My portfolio includes examples of digital communication campaigns, digital accessibility, instructional design, user experience design, content strategy, and a few other fun projects I’ve worked on over the years in both professional and educational settings.</p>
+<p>In my spare time I enjoy nerding out over entirely too many fandoms, mastering the dangerous hobby of reading while walking, and contriving insane movie plotlines with friends that will most likely never see the light of day.</p>
+<p>This portfolio, much like me, is very much a work in progress—enjoy!</p>
 
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
-
-<p>Some text here</p>
+<h2>Recent Posts</h2>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
