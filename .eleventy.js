@@ -66,6 +66,21 @@ module.exports = function(eleventyConfig) {
     return [...tagSet];
   });
 
+// add reading collection, code from Mark Llobrera
+
+  eleventyConfig.addCollection("reading", function (collection) {
+    return collection
+      .getAll()
+      .filter(function (item) {
+        return item.data.content_type == "book";
+      })
+      .sort(function (a, b) {
+        return b.date - a.date;
+      });
+  });
+
+// end of mark's code
+
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
