@@ -1,7 +1,7 @@
 ---
 title: AMC Leadership Summit
 description: Interactive leadership development experience for NYU's Administrative Management Council
-layout: layouts/post.njk
+layout: layouts/project.njk
 tags:
   - learning design
   - training facilitation
