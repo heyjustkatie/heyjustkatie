@@ -3,9 +3,9 @@ title: NYU Website Redesign
 description: Interactive leadership development experience for NYU's Administrative Management Council
 layout: layouts/post.njk
 tags:
-  - learning design
-  - training facilitation
-  - communication strategy
+  - learning-design
+  - training-facilitation
+  - communication-strategy
 ---
 
 communication strategy | learning design | training facilitation
@@ -43,7 +43,7 @@ Inspired by our summer launch date, we developed a campaign theme around the "re
 > **NYU.edu Refresh**
 > mobile-friendly | new look | improved user experience
 
-![Draft digital screen ad](/refresh-digital-screen.png)
+![Draft digital screen ad](refresh-digital-screen.png)
 A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
 
 The overall voice and tone for redesign communications could be best described as:
@@ -63,7 +63,7 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](/nyu-refresh.jpg)
+![Campaign email mockups](nyu-refresh.jpg)
 Campaign emails were mobile responsive and reflected graphical elements from the new design.
 
 ## Launch announcement video
