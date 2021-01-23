@@ -63,7 +63,7 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](nyu-refresh.jpg)
+![Campaign email mockups](/nyu-website-redesign/nyu-refresh.jpg)
 Campaign emails were mobile responsive and reflected graphical elements from the new design.
 
 ## Launch announcement video
@@ -73,6 +73,10 @@ Following the launch of the refreshed NYU website, we also shared a celebratory 
 ## Sharing our process
 
 In July 2018, I represented NYU at the eduWeb Digital Summit in San Diego along with our Digital Communications Specialist, where we discussed the planning process behind our communication strategy for the redesign of the NYU website. We also provided participants with a communication planning guide that they can use and adapt to support their own communication efforts.
+
+<button href="{{ 'https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR' | url }}">view presentation (pdf)</button>
+
+Did that work?
 
 [View presentation (PDF)](https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR)
 
