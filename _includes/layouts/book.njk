@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-book
+---
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
+
+<hr>
+<ul>
+  {%- set nextBook = collections.books | getNextCollectionItem(page) %}
+  {%- if nextnextBook %}<li>Next: <a href="{{ nextBook.url | url }}">{{ nextBook.data.title }}</a></li>{% endif %}
+  {%- set previousnextBook = collections.books | getPreviousCollectionItem(page) %}
+  {%- if previousnextBook %}<li>Previous: <a href="{{ previousBook.url | url }}">{{ previousBook.data.title }}</a></li>{% endif %}
+</ul>
