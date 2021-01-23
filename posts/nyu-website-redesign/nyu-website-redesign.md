@@ -43,7 +43,7 @@ Inspired by our summer launch date, we developed a campaign theme around the "re
 > **NYU.edu Refresh**
 > mobile-friendly | new look | improved user experience
 
-![Draft digital screen ad](/img/refresh-digital-screen.png)
+![Draft digital screen ad](/refresh-digital-screen.png)
 A draft of a digital screen ad and example of title treatment, flat graphics, and color palette.
 
 The overall voice and tone for redesign communications could be best described as:
@@ -63,24 +63,18 @@ Email notifications began 10 weeks in advance of the launch and featured essenti
 
 The Digital Communication Group's [Twitter account](https://twitter.com/NYUdigicomm) was also utilized to post updates, tips for how to use the new website, and behind-the-scene looks of the launch process.
 
-![Campaign email mockups](posts/nyu-website-redesign/img/nyu-refresh.jpg)
+![Campaign email mockups](/nyu-refresh.jpg)
 Campaign emails were mobile responsive and reflected graphical elements from the new design.
 
 ## Launch announcement video
 
 Following the launch of the refreshed NYU website, we also shared a celebratory video on social media. This was created using design material used throughout the campaign in addition to live recordings taken during the actual launch.
 
-<!-- blank line -->
-<figure class="video">
-  <iframe src="(https://www.youtube.com/embed/watch?v=Alc7AhymB9o" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 ## Sharing our process
 
 In July 2018, I represented NYU at the eduWeb Digital Summit in San Diego along with our Digital Communications Specialist, where we discussed the planning process behind our communication strategy for the redesign of the NYU website. We also provided participants with a communication planning guide that they can use and adapt to support their own communication efforts.
 
-<button class="btn" href="{{ 'https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR' | url }}">view presentation (pdf)</button>
+[View presentation (PDF)](https://drive.google.com/open?id=1RkxrW5hiMCZPEOlwTxjhkT3zTNeM34kR)
 
 ## Learning design for CMS users
 
